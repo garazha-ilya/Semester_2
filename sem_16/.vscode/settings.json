@@ -1,0 +1,27 @@
+{
+  "files.associations": {
+    "bit": "cpp",
+    "*.tcc": "cpp",
+    "bitset": "cpp",
+    "random": "cpp",
+    "fstream": "cpp",
+    "functional": "cpp",
+    "istream": "cpp",
+    "limits": "cpp",
+    "mutex": "cpp",
+    "ostream": "cpp",
+    "sstream": "cpp",
+    "stop_token": "cpp",
+    "streambuf": "cpp",
+    "tuple": "cpp",
+    "variant": "cpp",
+    "__config": "cpp",
+    "__hash_table": "cpp",
+    "__tree": "cpp",
+    "locale": "cpp",
+    "set": "cpp",
+    "string": "cpp",
+    "typeinfo": "cpp",
+    "version": "cpp"
+  }
+}
